@@ -6,7 +6,11 @@
 # 4: Drawing Graphs
 # 5: Creating GIFS
 
+#Basic principle of this program is to create functions for calculating characteristics of the particles in another file
+#called functions, create a CSV file of all the data as going along then recalling a function called plot, in the plot file to create 
+#the gif and graph
 #Imports
+
 from matplotlib import pyplot as plt
 from matplotlib import animation
 import numpy as np
